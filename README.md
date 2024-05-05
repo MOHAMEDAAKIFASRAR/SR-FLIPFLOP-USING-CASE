@@ -44,7 +44,9 @@ Step 6: Open in RTL viewers to get RTL diagram output.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program for flipflops and verify its truth table in quartus using Verilog programming.
+Developed by: MOHAMED AAKIF ASRAR S
+RegisterNumber: 212223240088
 */
 ~~~
 module sr_flipflop(q, q_bar, s, r, clk, reset);
